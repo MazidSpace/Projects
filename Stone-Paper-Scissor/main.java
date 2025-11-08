@@ -80,6 +80,7 @@ public class main {
                         }
                 else //Adding else Statement when error detect print this response
                     System.out.println("You must enter the correct input, eg:-Stone, Paper, Scissor");
+                    error = false;
         }
     }
 }
