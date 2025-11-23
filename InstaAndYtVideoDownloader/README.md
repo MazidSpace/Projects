@@ -1,6 +1,11 @@
 # Video Downloader API for Instagram & YouTube
 
 A lightweight and high-performance API to download Instagram Stories, Reels, and YouTube videos or audio using simple GET requests.
+Completely free to use in your website, apps, or any automation tools.
+Currently no usage limits – enjoy! 🎉
+
+## ⚠️ Disclaimer
+As you all know I’m a student and this project is for educational purposes only. Please do not use this API for any illegal activity or to violate copyright or platform terms of service.
 
 ---
 
